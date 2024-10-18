@@ -43,25 +43,18 @@ You get all the Fire and Earth ![[fire.png]] ![[earth.png]], and some Air ![[air
 
 ## Boards
 
-### Great
-- Board E (Land 5)
-	- Coastal access
-- Board F (Land 4)
-- Board B (Land 7)
-	- Tremendous multiplayer implications
-	- Range 2 lands are tricky here
+Volcano likes coastal access from it's starting land (range 1), starting positions with nothing at range 3 (hard to reach), and mountains with tons of adjacencies (multiplayer).
 
-### Normal
-- Board A (Land 1)
-	- Land 8 is a big issue
-- Board D (Land 5) - Nice for 6-booms as it starts with 5 adjacent lands
-	- Lands 3 and 8 can be problems, but have redeeming factors (beast token, mountain)
-- Board C (Land 7)
-	- Far from coast, growing into Land 3 doesn't really solve your problems
-
-### Avoid
-- Board G
-- Board H
+| Priority | Board | Reason                                               |
+| :------: | :---: | :--------------------------------------------------- |
+|    1     |   E   | L5 - Coastal access                                  |
+|    2     |   F   | L4                                                   |
+|    3     |   B   | L7 - GREAT multiplayer adjacencies                   |
+|    4     |   A   | L1 - L8 is a big issue                               |
+|    5     |   D   | L5 - Nice for 6-booms. L3,L8 sometimes problematic   |
+|    6     |   C   | L7 - Far from coast, growth to L3 doesn't solve that |
+|    7     |   G   | L1/L8 - L3 or L7 will always be a problem            |
+|    8     |   H   | L3/L4 - L1 or L8 will always be a problem            |
 
 
 

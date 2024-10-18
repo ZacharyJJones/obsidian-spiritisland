@@ -1,7 +1,10 @@
-The most widespread and accepted way to play Volcano.
+Topic: [[Volcano Looming High]]
+### Intro
+The most widespread way to play Volcano.
 
 Leverages your powerful G3 while consistently erupting to handle nearby problems as they come up
 
+### Opening
 1. G2 Top/Bot > Rain of Ash
 2. G3 Bot > Exaltation + Lava Flows | Erupt to get value from right innate
 3. G3 Bot > 2 minors + Pyroclastic

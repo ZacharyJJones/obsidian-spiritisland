@@ -1,5 +1,8 @@
+Topic: [[Volcano Looming High]]
+### Intro
 Volcano does not need to hit the top levels of it's innates. Because of this, it doesn't really need lots of card plays. Because of that, it can focus more into energy gains. Because it will be swimming in energy, it can invest into Major powers which will win the game.
 
+### Opening
 1. G2 Top/Bot
 2. G3 Top
 3. G3 Bottom
@@ -9,7 +12,7 @@ Volcano does not need to hit the top levels of it's innates. Because of this, it
 7. G3 Top
 8. G3 Top
 
-
+### Other Notes
 
 Notice the G3 bottom on turn 3. This conservative estimate assumes a below-average first
 few drafts for Earth elements, and the need to unlock the bottom track Earth element early. The average-case build probably goes bottom track on turn 4 more than turn 3, giving you 1 extra energy per game. This shift to bottom track is not only vital to continue hitting the re-
