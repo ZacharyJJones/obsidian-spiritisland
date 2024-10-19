@@ -1,7 +1,7 @@
 Nickname: Volcano
 Release: [[Spirits By Release#Jagged Earth|Jagged Earth]]
 Elements: ![[fire.png]]![[earth.png]], ![[air.png]]
-![[_assets/Volcano/board.jpg]]
+![[Volcano.jpg]]
 ## Guides
 - [[Volcano - Top Track Majors]]
 - [[Volcano - G3 Bottom]]
@@ -75,5 +75,5 @@ Volcano likes coastal access from it's starting land (range 1), starting positio
 
 
 Credits
-- RedRevenge
+- RedRevenge - [YouTube](https://www.youtube.com/playlist?list=PL7VhWAfBC-gDE0vC6SLcV009V5Rct79lG)
 - TepidGoose - [In-Depth Guide ... Google Drive (PDF)](https://drive.google.com/file/d/16yLgcutRANscQJdx5n33DKAvkt7yz-oX/view)

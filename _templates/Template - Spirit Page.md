@@ -1,8 +1,8 @@
 Nickname: -------
-Release: \[\[Spirits By Release#Jagged Earth|Jagged Earth]]
+Release: \[[Spirits By Release#Jagged Earth|Jagged Earth]]
 Elements: ![[sun.png]] 
-\!\[\[_assets/-----/board.jpg]]
-## Guides // or if just 1 guide // How to Play
+!\[[_assets/boards/---]]
+## Guides
 
 
 ## Unique Cards
@@ -30,7 +30,7 @@ Elements: ![[sun.png]]
 
 
 ## Spirit Friends
-- 
+
 
 
 

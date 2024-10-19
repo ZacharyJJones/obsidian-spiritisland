@@ -12,11 +12,11 @@
 - Vital Strength of the Earth
 
 ## Horizons of Spirit Island
-- Devouring Teeth Lurk Underfoot
-- Eyes Watch from the Trees
-- Fathomless Mud of the Swamp
-- Rising Heat of Stone and Sand
-- Sun-Bright Whirlwind
+- [[Devouring Teeth Lurk Underfoot]]
+- [[Eyes Watch From The Trees]]
+- [[Fathomless Mud of the Swamp]]
+- [[Rising Heat of Stone and Sand]]
+- [[Sun-Bright Whirlwind]]
 
 ## Branch & Claw
 - Keeper of the Forbidden Wilds

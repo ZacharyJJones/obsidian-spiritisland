@@ -1,7 +1,7 @@
 Nickname: Memory
 Release: [[Spirits By Release#Jagged Earth|Jagged Earth]]
 Elements: ![[moon.png]]![[earth.png]], ![[air.png]] 
-![[_assets/Memory/board.jpg]]
+![[Memory.jpg]]
 ## Guides
 Turn 1 is always G2, with your resulting strategy based on how the draft went.
 First-timers: [[Memory - Slow Burn]]
@@ -133,8 +133,6 @@ Memory likes boards where every land is accessible at range 1 via two sacred sit
 ## Spirit Friends
 ### Those Who Love Teachings
 - Snake, Earth, Starlight, Lure, Fractured, and Finder - These love your Elemental Teachings
-### Those Who Love Boons
-- Lightning, Thunderspeaker, Mist, Downpour, Vengeance, Shadows, Lure, and Earth - These love your Boon of Ancient Memories
 
 
 

@@ -1,7 +1,7 @@
 Nickname: Stone
 Release: [[Spirits By Release#Jagged Earth|Jagged Earth]]
 Elements: ![[earth.png]]![[earth.png]], ![[sun.png]], ![[plant.png]]
-![[_assets/Stone/board.jpg]]
+![[Stone.jpg]]
 
 ## Guides
 Go top track.
@@ -27,4 +27,4 @@ Stone likes boards where:
 
 
 ## Credits
-- RedRevenge
+- RedRevenge - [Youtube](https://www.youtube.com/playlist?list=PL7VhWAfBC-gBlCz9W7fdDKZxpOQINxJRW)

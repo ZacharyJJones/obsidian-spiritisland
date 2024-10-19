@@ -1,7 +1,7 @@
 Nickname: River
 Release: [[Spirits By Release#Base Game|Base Game]]
 Elements: ![[water.png]]![[sun.png]], ![[earth.png]]
-![[_assets/River/board.jpg]]
+![[River.jpg]]
 ## Guides
 
 ![[River - Reclaim Loop]]
@@ -44,7 +44,7 @@ River loves boards where everything is within range 1 of wetlands, so that it ca
 
 ## Spirit Friends
 
-Every spirit loves river's energy output. Spirits with more card plays will love it even more.
+Lightning
 
 
 

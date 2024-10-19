@@ -1,6 +1,5 @@
 Find spirit guides by various [[Categories]]
 
-
 # Who?
 
 Who cares?
@@ -15,5 +14,5 @@ Most all of the information I keep here will be inspired by and adapted from the
 # How?
 
 It is all pilfered from other guides and resources. Most credits are provided on the Spirit information pages.
-* Images: The Spirit Island Hub provided a large set of image assets
+* Images: Spirit Island Hub and TTS mod.
 * Content: Guides hosted on all sorts of sites - BoardGameGeek, Google Docs, Youtube, the SI Hub itself.
